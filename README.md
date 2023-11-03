@@ -15,7 +15,7 @@ The dataset consists of sales data for the year 2019. The data includes items pu
 
 Based on the dataset, the best month for sales is **December**. This is likely due to the occurrence of Christmas during the month of December -- the largest shopping holiday in the United States, annually. Additionally, sales spiked in April and again in October. These spikes are not so easily described by national holidays, considering the items purchased are not seasonal or festive (i.e. candy sales in October would be more easily explainable).
 
-![Figure 1: Monthly Sales Graph]('/Results/Q1.png')
+![Figure 1: Monthly Sales Graph]('Results/Q1.png' "Monthly Sales")
 
 As shown in Figure 1, sales in December top out at just over $4.5 Million (USD). 
 
@@ -25,7 +25,7 @@ As shown in Figure 1, sales in December top out at just over $4.5 Million (USD).
 
 The best city in terms of number of items sold, as well as total money earned in sales, is **San Fransisco, CA**. The reasoning for this may be due to the overall population in San Fransisco, the high frequency of technical work that may require more expensive products such as laptops, the average income within Silicon Valley that allows for more spending, and more. Similarly, Figure 2 shows that the cities that sold the most products earned the most income, and vice versa. This can help conclude that no city in this dataset is buying any more expensive products, but fewer products in total, than any other city.
 
-![Figure 2: City Sales]('Pandas-Data-Science-Tasks/Results/Q2.png')
+![Figure 2: City Sales]('Results/Q2.png' "City Sales")
 
 ---
 
@@ -35,7 +35,7 @@ The best city in terms of number of items sold, as well as total money earned in
 
 Figure 3 shows the activity level in greater detail.
 
-![Figure 3: Website Activity]('Pandas-Data-Science-Tasks/Results/Q3.png')
+![Figure 3: Website Activity]('Results/Q3.png' "Sales Website Activity")
 
 ---
 
@@ -63,7 +63,7 @@ Additionally, this table reflects the popularity of certain devices, such as the
 
 These items are also significantly cheaper than other, more permanent products such as phones, computers, etc. Since this question is particularly concerned with how many of each product is purchased, it makes sense that the products that are cheap and often have to be replaced sell the most frequently. Figure 5 shows this relationship in greater detail.
 
-![Figure 5: Highest Selling Product]('Pandas-Data-Science-Tasks/Results/Q5.png')
+![Figure 5: Highest Selling Product]('Results/Q5.png' "Highest Selling Product")
 
 ---
 
@@ -73,13 +73,13 @@ These items are also significantly cheaper than other, more permanent products s
 
 Interestingly enough, the product that sold the least in Question 5 (the LG Washer and Dryer) also accounts for some of the lowest monetary sales. Perhaps this is due to better alternatives, pricing, or perhaps the appeal of a washer and dryer as opposed to a MacBook Pro or Phone. It may also have something to do with the lifespan of a product such as a washer or dryer, requiring very infrequently replacement or upgrade in its entirety. This is an interesting result that could use further exploration.
 
-![Figure 6: The Most Lucrative Products}]('Pandas-Data-Science-Tasks/Results/Q6.png')
+![Figure 6: The Most Lucrative Products}]('Results/Q6.png' "Highest Earning Product")
 
 ---
 
 ## Follow-Up Questions and Next Steps
 
-Though this is a good start, there exist many follow-up questions of a similar nature that could pose beneficial to the website that this dataset originated from. These questions include:
+Though this is a good start, there exist many follow-up questions of a similar nature that could be beneficial to the website that this dataset originated from. These questions include:
 
 <ul>
   <li>Insights Per City</li>
