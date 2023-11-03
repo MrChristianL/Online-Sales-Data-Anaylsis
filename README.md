@@ -14,7 +14,7 @@ The dataset consists of sales data for the year 2019. The data includes items pu
 
 Based on the dataset, the best month for sales is **December**. This is likely due to the occurrence of Christmas during the month of December -- the largest shopping holiday in the United States, annually. Additionally, sales spiked in April and again in October. These spikes are not so easily described by national holidays, considering the items purchased are not seasonal or festive (i.e. candy sales in October would be more easily explainable).
 
-![image]('Results/Q1.png' "Monthly Sales")
+![image](Results/Q1.png)
 
 As shown in Figure 1, sales in December top out at just over $4.5 Million (USD). 
 
