@@ -24,7 +24,7 @@ As shown in Figure 1, sales in December top out at just over $4.5 Million (USD).
 
 The best city in terms of number of items sold, as well as total money earned in sales, is **San Fransisco, CA**. The reasoning for this may be due to the overall population in San Fransisco, the high frequency of technical work that may require more expensive products such as laptops, the average income within Silicon Valley that allows for more spending, and more. Similarly, Figure 2 shows that the cities that sold the most products earned the most income, and vice versa. This can help conclude that no city in this dataset is buying any more expensive products, but fewer products in total, than any other city.
 
-![Figure 2: City Sales]('Results/Q2.png' "City Sales")
+![image](Results/Q2.png)
 
 ---
 
@@ -34,7 +34,7 @@ The best city in terms of number of items sold, as well as total money earned in
 
 Figure 3 shows the activity level in greater detail.
 
-![Figure 3: Website Activity]('Results/Q3.png' "Sales Website Activity")
+![image](Results/Q3.png)
 
 ---
 
@@ -62,17 +62,17 @@ Additionally, this table reflects the popularity of certain devices, such as the
 
 These items are also significantly cheaper than other, more permanent products such as phones, computers, etc. Since this question is particularly concerned with how many of each product is purchased, it makes sense that the products that are cheap and often have to be replaced sell the most frequently. Figure 5 shows this relationship in greater detail.
 
-![Figure 5: Highest Selling Product]('Results/Q5.png' "Highest Selling Product")
+![image](Results/Q5.png)
 
 ---
 
-#### **Question 5:** *Which items make the store the most money?*
+#### **Question 6:** *Which items make the store the most money?*
 
 **Answer:** Though the figure above may show they're not purchased very frequently compared to other items, the product that generates the most revenue is the **MacBook Pro Laptop**. This product is responsible for a drastically large percentage of the store's overall sales. When compared to the most frequently purchased, yet cheapest products -- AA and AAA batteries -- we can see that those products generate hardly any revenue for the store.
 
 Interestingly enough, the product that sold the least in Question 5 (the LG Washer and Dryer) also accounts for some of the lowest monetary sales. Perhaps this is due to better alternatives, pricing, or perhaps the appeal of a washer and dryer as opposed to a MacBook Pro or Phone. It may also have something to do with the lifespan of a product such as a washer or dryer, requiring very infrequently replacement or upgrade in its entirety. This is an interesting result that could use further exploration.
 
-![Figure 6: The Most Lucrative Products}]('Results/Q6.png' "Highest Earning Product")
+![image](Results/Q6.png)
 
 ---
 
