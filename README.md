@@ -106,9 +106,3 @@ Though this is a good start, there exist many follow-up questions of a similar n
           <li>Monitor the market for emerging trends or competitors that could impact future sales.</li>
     </ul>
 </ul> 
-
-
-
-    
-
-
