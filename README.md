@@ -1,6 +1,7 @@
 # An Analysis of Online Store Customers
 
 ![image](SalesAnalysis/Viz/Online&#32;Sales&#32;Dashboard&#32;(Tableau).png)
+Dashboard created in Tableau ([view the interactive dashboard here](https://public.tableau.com/app/profile/christian.leonard1590/viz/OnlineSalesDashboard_16999902275490/Dashboard1?publish=yes))
 
 ## The Dataset
 
