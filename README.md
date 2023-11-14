@@ -1,5 +1,7 @@
 # An Analysis of Online Store Customers
 
+![image](SalesAnalysis/Viz/Online&#32;Sales&#32;Dashboard&#32;(Tableau).png)
+
 ## The Dataset
 
 Dataset provided courtesy of [Keith Galli](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
